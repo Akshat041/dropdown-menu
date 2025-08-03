@@ -1,0 +1,22 @@
+{
+  "name": "dropdown-menu-akshat041",
+  "version": "1.0.0",
+  "description": "simple reusable dropdown menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshat041/dropdown-menu.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Akshat Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshat041/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/Akshat041/dropdown-menu#readme"
+}
